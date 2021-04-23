@@ -1,0 +1,13 @@
+Domain
+class controller
+metode controller
+argument
+
+controler dan models file nama paling depan wajib kapital
+khusus "view" tidak perlu diberi tutup ?>
+nama class harus sama dengan nama file
+
+http://localhost/rizki/template/
+
+template adalah class controller
+setelah template adalah function
