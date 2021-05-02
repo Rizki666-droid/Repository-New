@@ -11,3 +11,5 @@ http://localhost/rizki/template/
 
 template adalah class controller
 setelah template adalah function
+
+antara name file dan name class harus kapital untuk huruf pertama

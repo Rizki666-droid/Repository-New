@@ -1,6 +1,6 @@
 <?php 
 
-class template extends CI_Controller
+class Template extends CI_Controller
 {
 	function page()
 	{
